@@ -1,3 +1,4 @@
+
 ![850477fed08bfe98598082bcd309ce70](https://github.com/user-attachments/assets/a0d7671f-8d16-4521-8b70-7118fb137239)
 # 👋 Hi there!
 
@@ -20,6 +21,6 @@ To become a top-tier specialist capable of creating reliable and efficient solut
 
 ### 📫 **Contacts:**
 Currently focused on learning and projects, but they'll appear here soon!
-
+![Name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 *"Code is poetry that gets things done."*
