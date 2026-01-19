@@ -21,6 +21,6 @@ To become a top-tier specialist capable of creating reliable and efficient solut
 
 ### 📫 **Contacts:**
 Currently focused on learning and projects, but they'll appear here soon!
-![Name]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/#inbox))
----
+![Name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Frozzen5242)---
 *"Code is poetry that gets things done."*
