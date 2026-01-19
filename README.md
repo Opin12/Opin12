@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://your-photo-link-here.jpg" alt="Алексей Петров" width="200" style="border-radius: 10px; border: 3px solid #2ecc71;"/>
 ![850477fed08bfe98598082bcd309ce70](https://github.com/user-attachments/assets/a0d7671f-8d16-4521-8b70-7118fb137239)
 # 👋 Hi there!
 
