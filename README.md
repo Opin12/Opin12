@@ -1,5 +1,25 @@
 ![850477fed08bfe98598082bcd309ce70](https://github.com/user-attachments/assets/a0d7671f-8d16-4521-8b70-7118fb137239)
-## Hi there 👋
-A little about myself: 17 y.o. I know python, bash I work on redos, astra-linux, windows
-Hobby: I read Python books and participate in programming competitions
-Contacts: there are none)
+# 👋 Hi there!
+
+**17 years old | Passionate Developer & Open Source Enthusiast**
+
+---
+
+### 🛠️ **Tech Stack**
+*   **Languages:** Python, Bash
+*   **Operating Systems:** RedOS, Astra Linux, Windows
+*   **Interests:** Algorithms, low-level interaction, automation
+
+### 📚 **What I Do**
+*   🔭 Deepening my knowledge by reading specialized Python books.
+*   ⚡ Solving problems and honing skills in programming competitions.
+*   🐧 Exploring domestic operating systems and their ecosystem.
+
+### 🎯 **Goals**
+To become a top-tier specialist capable of creating reliable and efficient solutions at the intersection of system administration and development.
+
+### 📫 **Contacts:**
+Currently focused on learning and projects, but they'll appear here soon!
+
+---
+*"Code is poetry that gets things done."*
